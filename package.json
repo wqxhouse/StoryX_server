@@ -1,0 +1,9 @@
+{
+    "name":"StoryX_server",
+    "version":"0.0.1",
+    "dependencies":{
+    "express":"4.4.x",
+    "mongoskin": "1.4.x",
+    "bluebird": "2.1.x"
+    }
+}
